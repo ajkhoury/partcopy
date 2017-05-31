@@ -24,9 +24,6 @@ How to use partcopy
    outfile is not created, but the bytes are used to overwrite
    other bytes within the output file.
 
-   by default, the command simulates, checking file lengths
-   but not copying any data. add -yes to really copy contents.
-
    negative offsets can be used, to specify positions
    relative to the file end instead of file start.
 
