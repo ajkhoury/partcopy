@@ -1,6 +1,6 @@
 # partcopy 
 
-Bringing back the 'partcopy' standalone program to copy contiguous ranges of raw data between files and/or disks, thanks to Swiss File Knife.
+Bringing back the 'partcopy' standalone program to copy contiguous ranges of raw data between files and/or disks, thanks to Swiss File Knife. Compiled using LLVM Clang 5.0 Pre-release, linked using Microsoft's link.exe
 
 # License
 
