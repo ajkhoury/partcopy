@@ -334,7 +334,7 @@ int main( int argc, char *argv[], char *penv[] )
 	
 	// output offset is optional.
 	int nOutFileSize = -1;
-	if (bHaveDstOff && nDstOff != 0)
+	if (bHaveDstOff)
 	{
 		nOutFileSize = file::getSize( pszDst );
 		if (nOutFileSize < 0)
